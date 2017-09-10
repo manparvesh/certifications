@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Certifications
+My certifications from different online programs and courses
 
-You can use the [editor on GitHub](https://github.com/manparvesh/certifications/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Specializations
+### Coursera
+#### Algorithms and Data Structures - University of California, San Diego
+Certifications for the courses in this specialization
+- [Algorithmic Toolbox](https://www.coursera.org/account/accomplishments/verify/X8BRURP59X9P)
+- [Data Structures](https://www.coursera.org/account/accomplishments/verify/MQ49B57DYHG3)
+- [Algortihms on Graphs](https://www.coursera.org/account/accomplishments/verify/BDWT9BK9WWXY)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Professional
+### [FreeCodeCamp](https://www.freecodecamp.org)
+ - [Front End Development certification](https://www.freecodecamp.org/manparvesh/front-end-certification)
 
-### Markdown
+## Courses
+ - [Machine Learning - Stanford University](https://www.coursera.org/account/accomplishments/records/8H4AZCSELFSJ)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/manparvesh/certifications/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Skills
+### [TestDome.com](https://www.testdome.com)
+ - [Java Algorithms](https://www.testdome.com/cert/5rfsi5e3rs)
+ - [C++ Algorithms](https://www.testdome.com/cert/n2f27yuxsq)
