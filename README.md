@@ -14,5 +14,5 @@ My certifications from different online programs and courses
  - [Machine Learning - Stanford University](https://www.coursera.org/account/accomplishments/records/8H4AZCSELFSJ)
 
 ## Skills
- - [Java Algorithms](https://www.testdome.com/cert/5rfsi5e3rs) ([TestDome.com](https://www.testdome.com))
- - [C++ Algorithms](https://www.testdome.com/cert/n2f27yuxsq) ([TestDome.com](https://www.testdome.com))
+ - [C++ Algorithms (hard)](https://www.testdome.com/cert/5rfsi5e3rs) ([TestDome.com](https://www.testdome.com))
+ - [Java Algorithms (hard)](https://www.testdome.com/cert/n2f27yuxsq) ([TestDome.com](https://www.testdome.com))
