@@ -13,7 +13,7 @@ Certifications for the courses in this specialization
 ### [FreeCodeCamp](https://www.freecodecamp.org)
  - [Front End Development certification](https://www.freecodecamp.org/manparvesh/front-end-certification)
 
-## Courses
+## Individual Courses
  - [Machine Learning - Stanford University](https://www.coursera.org/account/accomplishments/records/8H4AZCSELFSJ)
 
 ## Skills
